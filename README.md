@@ -14,7 +14,7 @@ Before running this API you must create a .env file in the project root
 
 Then in .env file you should create fields:
 
-SECRET = ""
+JWT_SECRET = ""
 
 SALT = ""
 
